@@ -1,2 +1,2 @@
 # desafio-banco-dio
-Bank simulation code made during the DIO/Santander bootcamp.
+Bank simulation coded in java made during the DIO/Santander bootcamp.
